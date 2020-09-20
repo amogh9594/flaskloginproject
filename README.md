@@ -20,6 +20,7 @@ Install Flask-MySQLdb with the command: pip install flask-mysqldb
 We need to create our project directory and files, you can put the directory anywhere on your computer, as long as Python can access it, create the directories and files below.
 
 # File Structure
+'''
 \-- pythonlogin
   |-- main.py
   \-- static
@@ -30,6 +31,7 @@ We need to create our project directory and files, you can put the directory any
     |-- home.html
     |-- profile.html
     |-- layout.html
+'''    
     
 # The below instruction will start your web server (Windows):
 
