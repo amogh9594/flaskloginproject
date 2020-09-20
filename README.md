@@ -21,6 +21,7 @@ We need to create our project directory and files, you can put the directory any
 
 # File Structure
 '''
+
 \-- pythonlogin
   |-- main.py
   \-- static
