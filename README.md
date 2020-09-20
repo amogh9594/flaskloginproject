@@ -1,4 +1,4 @@
-##### flask login and registration project 
+#### flask login and registration project 
 
 ### 1. Getting Started
 There are a few steps we need to take before we create our python login and registration system, we need to download and set up Python and the packages we're going to use.
